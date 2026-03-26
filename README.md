@@ -1,7 +1,6 @@
 # HR Analytics Dashboard (Power BI)
 
-![Dashboard Preview](<img width="1656" height="958" alt="Screenshot 2026-03-26 231612" src="https://github.com/user-attachments/assets/f7b2a115-ea24-4fb9-9e68-39a33568ba97" />
-)
+<img width="1656" height="958" alt="image" src="https://github.com/user-attachments/assets/b3143a62-158f-4613-a8dd-7143fc1e8786" />
 
 ## Project Overview
 
